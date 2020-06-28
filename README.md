@@ -12,3 +12,5 @@ Steps
 8) run the login file as localhost/login.html
 
 ENJOY
+
+//Hi everyone.
